@@ -1,5 +1,3 @@
-# streamlit run /Users/abhaysingh/Desktop/CODING/Python/Projects/Formula1/app.py
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
